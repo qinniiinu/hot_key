@@ -11,3 +11,5 @@
 |capsLock+F4|開vscode|
 |capsLock+F5|複製複製複製|
 |capsLock+F6|貼上很多複製|
+
+anytype://object?objectId=bafyreicgskocvw4lufd7vsh7csohdwflmey3oawzew74hq3fytjpcx4lwu&spaceId=bafyreicgul66u33nxvzgw6zaep5lzxvqk5jyfqgkurh7fggrxro4hczf4y.1goeilyn1rk7x
